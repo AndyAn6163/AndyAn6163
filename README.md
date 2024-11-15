@@ -65,13 +65,13 @@ A Java software engineer from Taiwan
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
-<h1 align="center">GitHub Status</h2>
+<h1 align="center">GitHub Status</h1>
 
-<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#compact-language-card-layout-->
+<!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andyan6163&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Anurag's GitHub stats" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyan6163&layout=donut&theme=github_dark_dimmed" alt="Top Langs" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=andyan6163&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Andy's GitHub stats" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyan6163&layout=donut&theme=github_dark_dimmed" alt="Top Languages" width="34%" />
 </p>
 
-<!--https://github.com/lowlighter/metrics-->
+<!-- Reference: https://github.com/lowlighter/metrics -->
